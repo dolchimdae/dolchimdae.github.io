@@ -281,6 +281,7 @@ body {
 }
 
 #work {
+  width : calc(90% - 30px);
   margin: 2vh 0px;
   padding: 4vh 0px !important;
 }
