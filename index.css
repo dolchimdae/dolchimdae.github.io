@@ -281,7 +281,6 @@ body {
 }
 
 #work {
-  width : calc(90% - 30px);
   margin: 2vh 0px;
   padding: 4vh 0px !important;
 }
@@ -555,6 +554,6 @@ body {
       rgba(10, 10, 10, 0.4),
       rgb(10, 10, 10, 0.4)
     ),
-    url("https://images.unsplash.com/photo-1553748024-d1b27fb3f960?w=1500&q=80");
+    url("https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2670&q=80");
   --background-background: #fff;
 }
